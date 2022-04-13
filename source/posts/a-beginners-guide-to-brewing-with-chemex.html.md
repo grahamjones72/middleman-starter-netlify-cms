@@ -1,5 +1,5 @@
 ---
-title: A beginners’ guide to building bombs with Chemex
+title: A beginners’ guide to building with Chemex
 date: 2018-08-16T12:01+02:00
 description: Brewing with a Chemex probably seems like a complicated,
   time-consuming ordeal, but once you get used to the process, it becomes a
